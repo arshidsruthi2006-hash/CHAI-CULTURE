@@ -1,0 +1,277 @@
+#top{
+    height: 60px;
+    width:1520px;
+    font-size:40px;
+    color:#5B3CC4;
+  
+}
+#Login{
+    
+   color: black;
+    text-decoration:none;
+    font-size: 20px;
+    position: absolute;
+    top: 25px;
+    right:400px;
+    height: 30px;
+    width:150px;
+    text-align: center;
+    border-radius:5px;
+}
+#search{
+    height: 45px;
+    width: 600px;
+    font-size:20px;
+    position: absolute;
+    top: 15px;
+    left: 250px;
+    border-radius:10px;
+    border-color:whitesmoke;
+    background-color: azure;
+    
+}
+#sea{
+    text-align: center;
+   background-color:#f6f1e7;
+}
+#Shopify{
+    position:absolute;
+    left: 80px;
+}
+#Cart{
+    color: black;
+    text-decoration:none;
+    font-size: 20px;
+    position: absolute;
+    top: 5px;
+    right:250px;
+    height: 20px;
+    width:150px;
+    text-align: center;
+    border-radius:5px;
+}
+#u{
+    height: 30px;
+    width:40px;
+    position:absolute;
+    left:15px;
+    top: -3px;
+    z-index:-1;
+}
+#c{
+   height: 30px;
+    width:40px;
+    position:absolute;
+    left:15px;
+    top: -5px;
+    z-index:-1; 
+}
+
+.nav_b{
+    height:50px;
+    width:200px;
+    display: inline-block;
+    margin:80px;
+    margin-top:25px;
+    font-size:25px;
+    text-align: center;
+    margin-bottom:30px;
+}
+#home{
+    height:25px;
+    width: 25px;
+    position: absolute;
+    top: 93px;
+    left:130px;
+}
+#shop{
+    height: 35px;
+    width:35px;
+       position: absolute;
+    top: 90px;
+    left:494px;
+    
+}
+#about{
+    height: 55px;
+    width:55px;
+       position: absolute;
+    top: 85px;
+    left:830px;
+    
+}
+#contact{
+    height: 45px;
+    width:45px;
+       position: absolute;
+    top: 85px;
+    left:1195px; 
+}
+
+body{
+  background-color:#f6f1e7;  
+}
+h2{
+    color:#b89b5e;
+    text-align: center;
+   
+    
+}
+h1{
+    color:#4a2f18;
+    text-align: center;
+    
+}
+h3{
+    color:#7a5a3a;
+    text-align: center;
+    
+}
+#scroll_box{
+    width:1000px;
+    height:100px;
+    margin-top:20px;
+    margin-left:210px;
+    margin-right:210px;
+    text-align: center;
+    
+}
+.im1{
+    width:900px;
+    padding:2px;
+    margin:20px;
+  
+    height:500px;
+    display: inline-block;
+}
+.im2{
+   width:900px;
+    padding:2px;
+    margin:20px;
+ height:500px; 
+ font-size:40px;
+    display: inline-block;
+    position: relative;
+    top:390px;
+    color: #4a2f18;
+    text-align: center;
+}
+#scroll_b{
+   width:1000px;
+   height:100px;
+    margin-left:210px;
+    margin-right:210px;
+    text-align: center;
+}
+#imr{
+    margin-right:-20px;
+}
+#imr1{
+    margin-left:-10px;
+    width:900px;
+}
+.im3{
+   width:900px;
+    padding:2px;
+    margin:20px;
+ height:500px; 
+ font-size:40px;
+    display: inline-block;
+    position: relative;
+    top:360px;
+    color: #4a2f18;
+    text-align: center;
+}
+
+#Login:hover{
+    color:blue;
+}
+#Cart:hover{
+    color:blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+  color:blue;
+}
+#cart_body{
+    height:600px;
+    width:1500px;
+    position: absolute;
+   top:230px;
+   left: 570px;
+   font-size:35px;
+   
+}
+#cart_img{
+    height:190px;
+    width: 250px;
+}
+#cart_text{
+    position: relative;
+    top:50px;
+    left:-30px;
+}
+#cart_text2{
+    position: relative;
+    top: 80px;
+    left:-30px;
+    font-size:20px;
+    color:rgb(64, 64, 64);
+}
+#about_img{
+    height:200px;
+    width:200px;
+    position: absolute;
+    left:400px;
+    top:210px;
+    display: inline-block;
+}
+#tex1{
+     position: absolute;
+    left:750px;
+    top:300px;
+    display: inline-block; 
+    font-size:30px;
+    color:#4a2f18;
+}
+#tex2{
+    font-size:20px;
+    color:#94602c;
+    text-align: center;
+    position: absolute;
+    top: 490px;
+    left:200px;
+    right:200px;
+    line-height:2;
+    
+}
+#contact_img{
+    height:400px;
+    width:900px;
+    position: absolute;
+    left:280px;
+    top:160px;
+}
+#no{
+    font-size:27px;
+    position: absolute;
+    left:560px;
+    top:590px; 
+    color:#4a2f18;
+}
+#txt_no{
+     font-size:20px;
+    position: absolute;
+    left:550px;
+    top:640px;
+    color:#715339;
+}
+#cart_txt{
+    font-size:40px;
+    position: absolute;
+    top:300px;
+    left:630px;
+}
